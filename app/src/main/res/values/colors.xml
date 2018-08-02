@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="outbrain_publisher_color">#C9C9C9</color>
+    <color name="outbrain_title_color">#000000</color>
+    <color name="outbrain_orange">#ec8100</color>
+    <color name="outbrain_white_color">#FFFFFF</color>
+    <color name="hero_black_overlay_color">#7F000000</color>
+    <color name="hero_title_text_view_color">#f7f7f7</color>
+    <color name="article_text_view_color">#777777</color>
+    <color name="outbrain_homepage_cell_background">#f6f6f6</color>
+    <color name="outbrain_label_background">#b3f6f6f6</color>
+    <color name="outbrain_classic_recommendation_background">#EAEAEA</color>
+</resources>
